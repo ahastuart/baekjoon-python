@@ -14,6 +14,7 @@ for i in range(1, star+1): # 일단 줄이 5줄 나와야함
 # N = int(input())
 # print('\n'.join(' '*(N-n) + '*'*n for n in range(1,N+1)))
 # join안에 있는 것들을 \n으로 구분자로 사용해서 출력
+
 #     *
 #    **
 #   ***
